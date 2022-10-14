@@ -1,4 +1,4 @@
-# Homework Tasks Java+
+# Homework Tasks Java
 
 Homework_14.10.2022
 
