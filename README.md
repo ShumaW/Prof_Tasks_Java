@@ -8,5 +8,5 @@ Homework_14.10.2022
 
 Homework_21.10.2022
 
-- [Main.java]()
-- [Employee.java]()
+- [Main.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221021/src/Main.java)
+- [Employee.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221021/src/Employee.java)
