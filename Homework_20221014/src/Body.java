@@ -8,7 +8,7 @@ public class Body {
     }
 
     public String bodyMassIndex() {
-        double i = (weight / (height * height));
+        double i = weight / (height * height);
         String res = " ";
         if (i < 18.5) {
             res = "Underweight";
