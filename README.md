@@ -13,9 +13,9 @@ Homework_21.10.2022
 
 Homkework_04.11.2022
 
-- [Main.java]()
-- [GetArea.java]()
-- [GetPerimetr]()
-- [Circle.java]()
-- [Rectangle.java]()
+- [Main.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221104_tj/src/Main.java)
+- [GetArea.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221104_tj/src/GetArea.java)
+- [GetPerimetr.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221104_tj/src/GetPerimetr.java)
+- [Circle.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221104_tj/src/Circle.java)
+- [Rectangle.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221104_tj/src/Rectangle.java)
 
