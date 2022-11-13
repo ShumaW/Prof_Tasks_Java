@@ -21,7 +21,7 @@ Homkework_04.11.2022
 
 Homewor_11.11.2022
 
-- [Garden.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221111_tj/src/Main.java)
+- [Garden.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221111_tj/src/Garden.java)
 - [PlantGrowable.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221111_tj/src/PlantGrowable.java)
 - [Tree.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221111_tj/src/Tree.java)
 - [Flower.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221111_tj/src/Flower.java)
