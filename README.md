@@ -19,3 +19,10 @@ Homkework_04.11.2022
 - [Circle.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221104_tj/src/Circle.java)
 - [Rectangle.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221104_tj/src/Rectangle.java)
 
+Homewor_11.11.2022
+
+- [Garden.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221111_tj/src/Main.java)
+- [PlantGrowable.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221111_tj/src/PlantGrowable.java)
+- [Tree.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221111_tj/src/Tree.java)
+- [Flower.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221111_tj/src/Flower.java)
+
