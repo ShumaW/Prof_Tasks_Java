@@ -1,4 +1,4 @@
-public class Flower implements PlantGrowable {
+public class Flower extends PlantGrowable {
 
     private double height;
     private int age;

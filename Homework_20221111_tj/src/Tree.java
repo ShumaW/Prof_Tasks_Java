@@ -1,4 +1,4 @@
-public class Tree implements PlantGrowable {
+public class Tree extends PlantGrowable {
     private double height;
     private int age;
     private String displayTreeName;
