@@ -33,5 +33,5 @@ Homework_18.11.Homework_20221014
 - [CompareEmployeeByAge.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221118_tj/src/CompareEmployeeByAge.java)
 - [CompareEmployeeByName.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221118_tj/src/CompareEmployeeByName.java)
 - [CompareEmployeeBySalary.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221118_tj/src/CompareEmployeeBySalaryn.java)
-- [CompareEmployeeByAgeThanByName.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221118_tj/src/CompareEmployeeByAgeThanByName.java
+- [CompareEmployeeByAgeThanByName.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221118_tj/src/CompareEmployeeByAgeThanByName.java)
 
