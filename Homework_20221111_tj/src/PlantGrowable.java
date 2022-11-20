@@ -2,14 +2,14 @@ public abstract class PlantGrowable {
 
 
 
-    void seasonSpring() {
+    public void seasonSpring() {
 
     }
 
-    void seasonSummer() {
+    public void seasonSummer() {
 
     }
 
-    void seasonAutumn(){};
-    void seasonWinter(){};
+    public void seasonAutumn(){};
+    public void seasonWinter(){};
 }
