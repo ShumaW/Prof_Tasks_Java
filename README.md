@@ -26,7 +26,7 @@ Homework_11.11.2022
 - [Tree.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221111_tj/src/Tree.java)
 - [Flower.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221111_tj/src/Flower.java)
 
-Homework_18.11.Homework_20221014
+Homework_18.11.2022
 
 - [EmployeesMain.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221118_tj/src/EmployeesMain.java)
 - [Employee.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221118_tj/src/Employee.java)
@@ -34,4 +34,9 @@ Homework_18.11.Homework_20221014
 - [CompareEmployeeByName.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221118_tj/src/CompareEmployeeByName.java)
 - [CompareEmployeeBySalary.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221118_tj/src/CompareEmployeeBySalaryn.java)
 - [CompareEmployeeByAgeThanByName.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221118_tj/src/CompareEmployeeByAgeThanByName.java)
+
+Homework_25.11.2022
+
+- [MainTask1.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221125_tj/src/MainTask1.java)
+- [MainTask2.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221125_tj/src/MainTask2.java)
 
