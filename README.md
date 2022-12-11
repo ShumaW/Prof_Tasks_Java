@@ -42,5 +42,5 @@ Homework_25.11.2022
 
 Homework_09.12.2022
 
-- [Main.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221209_tj/src/task1/Main.java)
+- [Main.java](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221209_tj/src/Main.java)
 
