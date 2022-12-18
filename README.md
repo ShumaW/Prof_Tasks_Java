@@ -47,5 +47,5 @@ Homework_09.12.2022
 Homework_16.12.2022
 
 - [Task1](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221216_tj/src/task1/MainTask1.java)
-- [Task2](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221216_tj/src/task1/MainTask2.java)
+- [Task2](https://github.com/ShumaW/Prof_Tasks_Java/blob/master/Homework_20221216_tj/src/task2/MainTask2.java)
 
