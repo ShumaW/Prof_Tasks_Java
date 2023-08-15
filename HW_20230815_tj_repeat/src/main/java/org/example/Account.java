@@ -5,11 +5,10 @@ import lombok.*;
 @Getter
 @Setter
 public class Account {
+
     private String id;
     private boolean status = true;
-
     private Zone zone;
-
     private double balance;
 
     public Account(boolean status, Zone zone, double balance) {
@@ -28,11 +27,9 @@ public class Account {
         this.balance = 0.00;
     }
 
-
     public boolean getStatus() {
         return status;
     }
-
 
     public enum Zone {
         ZONE_1,
