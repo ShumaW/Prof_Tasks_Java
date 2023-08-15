@@ -1,6 +1,6 @@
 # Homework Tasks Java
 
-[HW_15.08.2023](https://github.com/ShumaW/Prof_Tasks_Java/tree/master/HW_20230815_tj_repeat)
+[HW_15.08.2023](https://github.com/ShumaW/Prof_Tasks_Java/tree/master/HW_20230815_tj_repeat/src)
 
 Homework_14.10.2022
 
